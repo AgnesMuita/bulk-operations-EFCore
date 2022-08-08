@@ -1,0 +1,9 @@
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.csproj.AssemblyReference.cache
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.AssemblyInfoInputs.cache
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.AssemblyInfo.cs
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.csproj.CoreCompileInputs.cache
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.RazorAssemblyInfo.cache
+D:\C#\bulk-ops\obj\Debug\net6.0\bulk-ops.RazorAssemblyInfo.cs
